@@ -65,7 +65,7 @@ Alternatively, you can test it using Postman by sending a GET request to `http:/
 The project follows the standard structure of a Spring Boot project generated with Spring Initializr:
 
 ```
-<project_name>/
+demo/
 ├── src/
 │   ├── main/
 │   │   ├── java/com/example/demo/
@@ -74,6 +74,7 @@ The project follows the standard structure of a Spring Boot project generated wi
 │   │   │   │   ├── HolaController.java
 │   │   ├── resources/
 │   │   │   ├── application.properties
+├── captures
 ├── pom.xml
 ├── README.md
 ```
